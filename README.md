@@ -1,5 +1,5 @@
 # goSOFI
-
+This is an example of a smart contract where the user inputs an amount of ether to 'donate'.
 #dependencies
 - Install truffle `npm install -g truffle`
 - Install webpack `npm install -g webpack`
